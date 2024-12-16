@@ -1,0 +1,9 @@
+---
+title: "Seb Bate"
+---
+
+## About
+
+Seb is an experienced medical statisitican for Manchester working for the NHS.
+
+![Caption](images/pfp.jpg){width=30%}

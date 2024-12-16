@@ -1,0 +1,28 @@
+---
+title: "Bibliography"
+format: html
+editor: visual
+bibliography: bib.bib
+cls: cls/ama.csl
+nocite: |
+  @flame
+  @bate2024external
+  @batek360
+  @sivabalah
+  @oncoplastic
+  @akris
+  @Batejrheum
+  @pla2r
+  @gbm
+  @FI
+  @oremule2023mobile
+  @CSOM
+  @cpap
+  @ETP
+---
+
+
+::: {#refs}
+:::
+
+

@@ -1,5 +1,18 @@
 project:
-  title: "quarto-website"
+  type: website
 
-editor: visual
+website:
+  title: "Seb Bate"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - href: bib.qmd
+        text: Bibliography
 
+format:
+  html:
+    theme: yeti
+    css: styles.css
+    toc: true
