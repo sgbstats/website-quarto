@@ -1,0 +1,1 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a78083d7-5342-4784-a727-ec266fa54793/deploy-status)](https://app.netlify.com/sites/leafy-semifreddo-31f422/deploys)
