@@ -7,7 +7,8 @@ title: "Seb Bate"
 Seb is an experienced medical statistician for Manchester working for the NHS for four years. He has a strong academic track record.
 
 ![Seb at a bar in Brighton](images/pfp.jpg){width=30%}
-# Languages & Certifications
+
+## Languages & Certifications
 
 -   R, inc. Tidyverse (Expert)
 -   NIHR Good Clinical Practice
